@@ -6,6 +6,6 @@ do is paste the link of the research paper you want to check out, and you’ll b
 ![alt text](https://github.com/Charlotte1601/Pasckathon_Koders/blob/master/images/paskathon-architecture%20(1).jpeg)
 
 
-Round 1 ppt - 
+Round 1 ppt - https://github.com/Charlotte1601/Pasckathon_Koders/blob/master/ppt/PASCKATHON-%20RPS.pdf
 
-Round 2 ppt -
+Round 2 ppt - https://github.com/Charlotte1601/Pasckathon_Koders/blob/master/ppt/PASCKATHON-%20RPS.pptx
