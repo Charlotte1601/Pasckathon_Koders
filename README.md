@@ -9,3 +9,14 @@ do is paste the link of the research paper you want to check out, and you’ll b
 Round 1 ppt - https://github.com/Charlotte1601/Pasckathon_Koders/blob/master/ppt/PASCKATHON-%20RPS.pdf
 
 Round 2 ppt - https://github.com/Charlotte1601/Pasckathon_Koders/blob/master/ppt/PASCKATHON-%20RPS.pptx
+
+# WebApp Screenshots
+
+### Search Summary Page
+![alt text](https://github.com/Charlotte1601/Pasckathon_Koders/blob/master/images/search_summary.PNG)
+
+### Word Frequency Summarizer
+![alt text](https://github.com/Charlotte1601/Pasckathon_Koders/blob/master/images/word_freq.PNG)
+
+### Graph Based Summarizer
+![alt text](https://github.com/Charlotte1601/Pasckathon_Koders/blob/master/images/graph_based.PNG)
